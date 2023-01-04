@@ -1,0 +1,9 @@
+body {
+  background-image: url('imagens/wallpaper003.jpg');
+
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  width: 1270px;
+  height: 96vh;
+  background-position: right bottom;
+}
